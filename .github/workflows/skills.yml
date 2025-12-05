@@ -1,0 +1,20 @@
+name: Auto Update Skills Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  update-skills:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Update timestamp
+      run: echo "Last Skill Refresh: $(date)" > skills-update.txt
+
+    - name: Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "🔁 Weekly Skills Graph Update"
