@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <b>Python Backend • Cloud Engineering • System Design.</b><br/>
+  <b>Python Backend • Cloud Engineering • System Design</b><br/>
   <i>Building production-grade systems, not tutorials.</i>
 </p>
 
