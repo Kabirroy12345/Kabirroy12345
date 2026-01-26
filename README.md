@@ -94,7 +94,7 @@ Persistence Layer
  ├─ Scoring Cache
 ```
 <p align="center"> <i>Designed for horizontal scaling and stateless deployments</i> </p>
-☁️ AWS MINI-PROJECTS — HAND-BUILT
+☁️ AWS MINI-PROJECTS — HAND-BUILT.
 <div align="center">
 Project	What It Proves
 🔹 EC2 App Deployment	Compute provisioning & SSH security
