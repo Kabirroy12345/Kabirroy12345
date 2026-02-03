@@ -129,7 +129,7 @@ Domain	Stack
 Backend	Python, FastAPI
 Cloud	AWS EC2, IAM, VPC, S3
 DevOps	Docker, GitHub Actions
-Systems	Linux, Networking Basics
+Systems	Linux, Networking Basics.
 </div>
 
 📊 ENGINEERING CONSISTENCY
