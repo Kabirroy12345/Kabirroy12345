@@ -49,7 +49,7 @@ Layer	Tools & Practices
 <div align="center">
 🎯 Semantic Resume Matching Engine
 
-<i>“How well does a resume actually match a job?”</i>
+<i>“How well does a resume actually match a job.?”</i>
 
 <img src="https://img.shields.io/github/stars/Kabirroy12345/resume-saas?style=for-the-badge"/> <img src="https://img.shields.io/github/languages/top/Kabirroy12345/resume-saas?style=for-the-badge"/> </div>
 ---
