@@ -1,14 +1,14 @@
-<!-- ================== KABIR ROY | BACKEND & CLOUD ENGINEER ================== -->
+<!-- ================== KABIR ROY | DATA SCIENCE & CLOUD ENGINEER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Kabir%20Roy&fontColor=ffffff&fontSize=56&animation=twinkling&fontAlignY=40&desc=Backend%20%7C%20Cloud%20Engineering%20%7C%20Systems&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Kabir%20Roy&fontColor=ffffff&fontSize=56&animation=twinkling&fontAlignY=40&desc=Data%20Science%20%7C%20Cloud%20Engineering%20%7C%20ML%20Systems&descAlignY=65&descSize=18"/>
 </p>
 
 
 
 
 <p align="center">
-  <b>Python Backend • Cloud Engineering • System Design.</b><br/>
-  <i>Building production-grade systems, not tutorials.</i>
+  <b>Data Science • Machine Learning • Cloud Engineering.</b><br/>
+  <i>Building production-grade ML systems, not tutorials.</i>
 </p>
 
 <p align="center">
@@ -23,28 +23,30 @@
 $ engineer --whoami
 
 Name: Kabir Roy
-Primary Role: Backend & Cloud Engineer
-Core Focus: APIs • Infrastructure • Scalability
-Philosophy: Systems > Syntax > Tools
+Primary Role: Data Science & Cloud Engineer
+Core Focus: Data • Models • Infrastructure • Scalability
+Philosophy: Data > Models > Tools
 ```
-🚀 ENGINEERING ROADMAP — 2025 (LOCKED)
-<p align="center"> <b>Backend → Cloud → Infrastructure → Scale</b><br/> <i>A deliberate engineering trajectory — no noise, no fluff.</i> </p>
-🧠 CORE ENGINEERING TRACK — BACKEND & CLOUD
+🚀 ENGINEERING ROADMAP — 2026 (LOCKED)
+<p align="center"> <b>Data → Models → Cloud → Deployment</b><br/> <i>A deliberate engineering trajectory — no noise, no fluff.</i> </p>
+🧠 CORE ENGINEERING TRACK — DATA SCIENCE & CLOUD
 <div align="center">
 Area	What I Build
-🐍 Python Backend	FastAPI • REST APIs • Clean Architecture
+📊 Data Science	Pandas • NumPy • EDA • Statistical Modeling
+🤖 Machine Learning	Scikit-learn • Model Evaluation • Feature Engineering
 ☁️ AWS Cloud	EC2 • IAM • VPC • S3 • CloudWatch
-🏗️ Solution Architecture	Scalable, fault-tolerant system design
+🏗️ Solution Architecture	Scalable, fault-tolerant ML system design
 </div>
 ⚙️ INFRASTRUCTURE & DEPLOYMENT LAYER
 <div align="center">
 Layer	Tools & Practices
 🔁 CI/CD	GitHub Actions (tested pipelines)
 🐳 Containers	Docker (local → cloud parity)
+🧪 Model Tracking	MLflow • Experiment versioning
 📊 Observability	Logs • Metrics • Monitoring mindset
 </div>
 🧰 ENGINEERING TOOLBOX
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,githubactions,linux,nginx,git,bash,vscode&perline=8"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,aws,docker,githubactions,linux,git&perline=8"/> </p>
 🏗️ FLAGSHIP PROJECT — Resume-SaaS
 <div align="center">
 🎯 Semantic Resume Matching Engine
@@ -60,9 +62,9 @@ Layer	Tools & Practices
 
 | Capability | Description |
 |-----------|-------------|
-| 🔍 **Semantic Matching** | Resume ↔ Job Description scoring |
+| 🔍 **Semantic Matching** | NLP-based Resume ↔ Job Description scoring |
+| 📊 **Feature Engineering** | Text vectorization & similarity modeling |
 | ⚡ **Backend Architecture** | FastAPI with modular structure |
-| 🧼 **API Design** | Clean, well-defined contracts |
 | 🐳 **Deployment Ready** | Container-first architecture |
 | 🔐 **Security Ready** | Auth & RBAC-aware design |
 
@@ -86,7 +88,7 @@ FastAPI Gateway
 Processing Layer
  ├─ Resume Parser
  ├─ Job Description Analyzer
- ├─ Semantic Scoring Engine
+ ├─ Semantic Scoring Engine (NLP/ML)
         │
         ▼
 Persistence Layer
@@ -115,20 +117,20 @@ AWS EC2 Instance
 Nginx Reverse Proxy
      │
      ▼
-FastAPI Application
+ML Model / FastAPI Application
 <div align="center">
 
 ✔ Local = Cloud parity
 ✔ Predictable builds
-✔ Infra-aware backend design
+✔ Infra-aware ML system design
 
 </div>
 🧩 ENGINEERING DOMAINS
 <div align="center">
 Domain	Stack
-Backend	Python, FastAPI
+Data Science	Python, Pandas, NumPy, Scikit-learn
 Cloud	AWS EC2, IAM, VPC, S3
-DevOps	Docker, GitHub Actions
+MLOps	Docker, MLflow, GitHub Actions
 Systems	Linux, Networking Basics.
 </div>
 
@@ -137,24 +139,24 @@ Systems	Linux, Networking Basics.
 📚 CONTINUOUS LEARNING STATUS
 <div align="center">
 Skill	State
-AWS Cloud Practitioner	In Progress
-AWS Solution Architect	Studying
-Docker & CI/CD	Active
-Observability	Practicing
+AWS Cloud Practitioner	Certified ✅
+Data Analytics & BI (Power BI)	In Progress
+Marketing Analytics (NPTEL, IIT KGP)	Certified ✅ (93%)
+MLOps (Docker, MLflow)	Active
 </div>
 ❌ ENGINEERING BOUNDARIES (INTENTIONAL)
 
 ❌ Buzzword stacking
 
-❌ Fake “DevOps Master” labels
+❌ Fake “Data Science Master” labels
 
 ❌ Tutorial-only projects
 
 ❌ UI-first engineering
 
-✔ Architecture
+✔ Data-driven architecture
 ✔ Systems thinking
 ✔ Depth over hype
 
 🌍 CONNECT:
-<p align="center"> <a href="mailto:kabirroy0032@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> <a href="https://linkedin.com/in/kabir-roy-01474527a"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://github.com/Kabirroy12345"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> </p> <p align="center"> <i>Consistency beats motivation. Every single time.</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0f172a&height=130&section=footer"/> </p> 
+<p align="center"> <a href="mailto:kabirroy0032@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> <a href="https://linkedin.com/in/kabir-roy-01474527a"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://github.com/Kabirroy12345"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> </p> <p align="center"> <i>Consistency beats motivation. Every single time.</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0f172a&height=130&section=footer"/> </p>
